@@ -1,1 +1,8 @@
-INSERT INTO bears (name, age, gender color, color, temperament, alive) values
+INSERT INTO bears (name, age, gender color, color, temperament, alive) VALUES ()
+INSERT INTO bears (name, age, gender color, color, temperament, alive) VALUES ()
+INSERT INTO bears (name, age, gender color, color, temperament, alive) VALUES ()
+INSERT INTO bears (name, age, gender color, color, temperament, alive) VALUES ()
+INSERT INTO bears (name, age, gender color, color, temperament, alive) VALUES ()
+INSERT INTO bears (name, age, gender color, color, temperament, alive) VALUES ()
+INSERT INTO bears (name, age, gender color, color, temperament, alive) VALUES ()
+INSERT INTO bears (name, age, gender color, color, temperament, alive) VALUES ()
